@@ -1,8 +1,8 @@
-# Rushell
+# Rvshell
 
 ## Overview
 
-**Rushell** is a dynamic reverse shell written in Rust that extracts the target IP address and port number directly from the executable's filename. By naming the executable in the format `192_168_10_100_4000`, Rushell will automatically connect back to the specified IP address (`192.168.10.100`) and port (`4000`) upon execution.
+**Rvshell** is a dynamic reverse shell written in Rust that extracts the target IP address and port number directly from the executable's filename. By naming the executable in the format `192_168_10_100_4000`, Rvshell will automatically connect back to the specified IP address (`192.168.10.100`) and port (`4000`) upon execution.
 
 ## Features
 

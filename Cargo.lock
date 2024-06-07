@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "rushell"
+name = "rvshell"
 version = "0.1.0"
